@@ -1,2 +1,2 @@
-# IMD_Web_Scraping
+# IMDb_Web_Scraping
 Web Scraping Top 10,000 Films 
