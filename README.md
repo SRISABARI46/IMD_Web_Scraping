@@ -15,6 +15,8 @@ Packages used to scrap the data :
  
  The final source code is in IMDb_Web_Scraping.py
  
+ The final output csv file is in Top 10K Movies
+ 
  
 
 
